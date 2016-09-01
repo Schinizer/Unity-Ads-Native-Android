@@ -15,3 +15,8 @@ UNITY_ADS_GAMEID=<Your ID here>
 ```
 
 To run the app, simply just build the project.
+
+## Sample executable
+A precompiled version has been uploaded. 
+
+You may find the package in the release [here](https://github.com/Schinizer/Unity-Ads-Native-Android/releases)
