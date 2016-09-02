@@ -1,4 +1,6 @@
 # Unity-Ads-Native-Android
+[![Build Status](https://travis-ci.org/Schinizer/Unity-Ads-Native-Android.svg?branch=master)](https://travis-ci.org/Schinizer/Unity-Ads-Native-Android)
+
 A sample integration with Unity Ads using native android
 
 ## Quick Start
